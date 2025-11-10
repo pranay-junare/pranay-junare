@@ -5,12 +5,12 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Hi 👋, I'm Pranay Junare</h1>
-<h3 align="center">I am currently a Robotics Masters student at University of Minnesota, Twin Cities(UMN) graduating in May 2026. I work at the intersection of Robot Learning, Deep learning, Reinforcement Learning and Perception solving problems in engineering and research for Manipulators and UAVs. </h3>
+<h4 align="center">I'm a Master's student at the University of Minnesota - Twin Cities, graduating in May 2026. I work at the intersection of Robot Learning, Foundation models(VLM/VLAs), Computer Vision, & Reinforcement Learning. </h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranay-junare&label=Profile%20views&color=0e75b6&style=flat" alt="pranay-junare" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://pranay-junare.github.io](https://pranay-junare.github.io/assets/pdf/PranayJunare_Resume.pdf)
+- 👨‍💻 All of my projects are available at [https://pranay-junare.github.io](https://pranay-junare.github.io)
 
 - 📫 How to reach me **junar002@umn.edu**
 
